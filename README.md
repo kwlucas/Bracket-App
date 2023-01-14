@@ -7,5 +7,7 @@
 - Different bracket types
 - Interactive (you can update as matches complete)
 - Loser bracket
+- Fill out-able/empty brackets
+- PDF/Print ready
 - Text codes that can open a saved bracket?
 - Local storage saving?
