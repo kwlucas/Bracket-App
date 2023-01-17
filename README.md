@@ -1,5 +1,7 @@
 # Bracket-App
 
+> ON HOLD TILL FURTHER NOTICE
+
 ## To do
 - Switch to single page react app?
 - Enter names
