@@ -3,7 +3,7 @@
 > ON HOLD TILL FURTHER NOTICE
 
 ## To do
-- Switch to single page react app?
+- Switch to single page react app? COMPLETED
 - Enter names
 - Generate random bracket
 - Different bracket types
