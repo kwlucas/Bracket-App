@@ -1,5 +1,6 @@
-function BracketBox() {
-
+function BracketBox(props) {
+  const {name, number, score} = props
+  
   return (
     <div>
 
