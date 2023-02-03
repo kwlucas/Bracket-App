@@ -9,7 +9,7 @@ function CompetitorForm(props) {
     return (
       <form onSubmit={handleFormSubmit}>
         <label>Name: </label>
-        <input></input>
+        <input placeholder="Name"></input>
         <button type="submit"></button>
       </form>
     );
