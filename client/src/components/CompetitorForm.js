@@ -1,5 +1,5 @@
 import React from "react";
-
+//Pass names from a global state?
 function CompetitorForm(props) {
 
   function handleFormSubmit(event){
