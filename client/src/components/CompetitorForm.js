@@ -5,6 +5,10 @@ function CompetitorForm(props) {
   function handleFormSubmit(event){
     event.preventDefault();
   }
+
+  function handleNameChange(event){
+    event.preventDefault();
+  }
   
     return (
       <form onSubmit={handleFormSubmit}>
