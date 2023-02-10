@@ -8,6 +8,7 @@ function CompetitorForm(props) {
 
   function handleNameChange(event){
     //event.preventDefault();
+    let nameEntry = event.target.value;
   }
   
     return (
