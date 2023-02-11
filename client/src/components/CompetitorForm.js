@@ -10,7 +10,7 @@ function CompetitorForm(props) {
       <form onSubmit={handleFormSubmit}>
         <label>Name: </label>
         <input placeholder="Name"></input>
-        <button type="submit"></button>
+        <button type="submit">Add to bracket</button>
       </form>
     );
   }
